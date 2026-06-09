@@ -1,5 +1,8 @@
 # Weather Pattern Analysis 🌦️
 
+## Intern Information
+Intern ID: CITS2475
+
 ## Overview
 
 Weather Pattern Analysis is a Python-based data analysis project that helps analyze weather data such as temperature and rainfall. The project calculates key weather statistics and visualizes weather trends using charts.
